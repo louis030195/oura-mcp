@@ -10,9 +10,9 @@ Dead simple MCP (Model Context Protocol) server for Oura Ring. Get your sleep, r
 
 **If you find this MCP server useful, please consider supporting its development!**
 
-[![Support via Stripe](https://img.shields.io/badge/Support-Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/14A14n0eZ1wyfix9AAgA802)
+[![Support via Stripe](https://img.shields.io/badge/Support-Stripe-635bff?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/5kQ14n1j3a347Q59a8gA803)
 
-[**👉 Click here to support this project**](https://buy.stripe.com/14A14n0eZ1wyfix9AAgA802)
+[**👉 Click here to support this project**](https://buy.stripe.com/5kQ14n1j3a347Q59a8gA803)
 
 *Your support helps maintain and improve this tool. Thank you!* 🙏
 
