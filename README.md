@@ -2,6 +2,8 @@
 
 Dead simple MCP (Model Context Protocol) server for Oura Ring. Get your sleep, readiness, and activity data directly from Claude, ChatGPT, or any LLM that supports MCP.
 
+[![Support Development](https://img.shields.io/badge/Support-Development-yellow?style=for-the-badge)](https://buy.stripe.com/14A14n0eZ1wyfix9AA)
+
 ## Features
 
 - 😴 Sleep data (score, REM, deep, light sleep stages)
